@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/NguyenM66/ReactUserAuth#readme",
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
     "jsonwebtoken": "^8.1.0",
